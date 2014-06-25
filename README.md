@@ -17,3 +17,7 @@ What Not To Do
 * Bump issues
 * Post ban appeals (please visit the [Ban Appeals](http://thesquareminer.com/forum/viewforum.php?f=22) forum instead)
 * Re-open closed issues
+
+
+[Get Started](https://github.com/Strad/TheSquareMiner/issues)
+-----
