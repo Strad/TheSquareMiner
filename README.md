@@ -15,5 +15,5 @@ How to Report Bugs
 What Not To Do
 -----
 * Bump issues
-* Post ban appeals (please visit the [http://thesquareminer.com/forum/viewforum.php?f=22](Ban Appeals) forum instead)
+* Post ban appeals (please visit the [Ban Appeals](http://thesquareminer.com/forum/viewforum.php?f=22) forum instead)
 * Re-open closed issues
